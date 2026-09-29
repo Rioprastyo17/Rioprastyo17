@@ -44,10 +44,10 @@ Building software solutions through web development, AI, automation, and system 
 
 ## Contact
 
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/rioprastyo17](https://linkedin.com/in/rioprastyo17)  
+📧 **Email:** prastyopras28@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/rioprastyo17](https://linkedin.com/in/rioprastyo)  
 🐙 **GitHub:** [github.com/Rioprastyo17](https://github.com/Rioprastyo17)
 
 ---
 
-> Build software that solves problems and creates meaningful impact.
+> Saya akan LAWAN!!!!!!!!!!!!
