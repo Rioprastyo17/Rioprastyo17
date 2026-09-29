@@ -1,6 +1,6 @@
 # Rioprastyo17
 
-**Software Developer | Tech Enthusiast**
+**Just Tech Enthusiast**
 
 Building software solutions through web development, AI, automation, and system engineering.
 
@@ -45,7 +45,7 @@ Building software solutions through web development, AI, automation, and system 
 ## Contact
 
 📧 **Email:** prastyopras28@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/rioprastyo17](https://linkedin.com/in/rioprastyo)  
+💼 **LinkedIn:** [linkedin.com/in/rioprastyo17](https://www.linkedin.com/in/rio-adi-prastyo-35979a354/)  
 🐙 **GitHub:** [github.com/Rioprastyo17](https://github.com/Rioprastyo17)
 
 ---
